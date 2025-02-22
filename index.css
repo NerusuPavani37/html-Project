@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+}
+
+#container-1 {
+    border:1px solid black;
+    padding: 10px 15px ;
+}
+
+#container-2, #container-3 {
+    padding: 10px 10px;
+}
+
+h1 {
+    text-decoration:underline;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+img {
+    height : 250px;
+    margin-bottom: 10px;
+}
